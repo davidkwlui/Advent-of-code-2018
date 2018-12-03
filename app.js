@@ -34,8 +34,8 @@ console.log(' - Part 2:', day2Part2);
 
 ///////////////////////// Day 3 \\\\\\\\\\\\\\\\\\\\\\\\\
 const day3Data = readInputFile(3, String)
-const day3Part1 = day3.part1(day2Data)
-const day3Part2 = day3.part2(day2Data)
+const day3Part1 = day3.part1(day3Data)
+const day3Part2 = day3.part2(day3Data)
 
 console.log('\n> Day 3');
 console.log(' - Part 1:', day3Part1);
